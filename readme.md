@@ -8,7 +8,9 @@ now support html, js, css, include comment, exclude black line
         // your code directories
         dirs: [
             path.resolve('D:/cdn/branch/js/bookOnline'),   
-            path.resolve('D:/cdn/branch/css/bookOnline')
+            path.resolve('D:/cdn/branch/css/bookOnline'),
+            // or file
+            path.resolve('D:/cdn/branch/css/bookOnline2/a.css'),
         ],
         // file suffix
         suffix: ['js', 'html', 'css']
