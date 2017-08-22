@@ -9,5 +9,5 @@ module.exports = {
         path.resolve('D:/cdn/branch/js/bookOnline'),
         path.resolve('D:/cdn/branch/css/bookOnline'),
     ],
-    suffix: ['js', 'tpl', 'css']
+    suffix: ['js', 'html', 'css']
 };

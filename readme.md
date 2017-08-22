@@ -2,7 +2,7 @@
 
 now support html,js,css,include comment,exclude black line
 
-edit config.js
+1、edit config.js
 
     module.exports = {
         // your code directories
@@ -11,10 +11,16 @@ edit config.js
             path.resolve('D:/cdn/branch/css/bookOnline')
         ],
         // file suffix
-        suffix: ['js', 'tpl', 'css']
+        suffix: ['js', 'html', 'css']
     }
     
-start calculate
+2、start calculate
 
     $ node index.js
+    
+3、result look like this
+
+    $ js：Total lines is 115469
+      css：Total lines is 15687
+      html：Total lines is 12568
 
