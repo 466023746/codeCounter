@@ -1,4 +1,4 @@
-# calculate code lines
+# use nodejs calculate code lines 
 
 now support html, js, css, include comment, exclude black line
 
