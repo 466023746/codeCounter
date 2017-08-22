@@ -1,6 +1,6 @@
 # calculate code lines
 
-now support html,js,css,include comment,exclude black line
+now support html, js, css, include comment, exclude black line
 
 1、edit config.js
 
